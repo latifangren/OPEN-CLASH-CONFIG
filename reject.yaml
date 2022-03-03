@@ -1,0 +1,30 @@
+payload:
+ #MODIFICATION By: SEKARREPKU
+  #CREDIT: ALL MEMBER & DEV OPEN WRT
+  #SUPPORT TRAKTER DANA OVO GOPAY SHOPEPAY 082225022058 BCA 7580612398 a/n LATIFAN
+
+  - DOMAIN-SUFFIX,ad.com
+  - DOMAIN,analytics.google.com
+  - DOMAIN,analyticsinsights-pa.googleapis.com
+  - DOMAIN,analyticsreporting.googleapis.com
+  - DOMAIN-SUFFIX,doubleclick.net
+  - DOMAIN-SUFFIX,googleadservices.com
+  - DOMAIN-SUFFIX,googleadsserving.cn
+  - DOMAIN-SUFFIX,googlesyndication.com
+  - DOMAIN-SUFFIX,googletagmanager.com
+  - DOMAIN-SUFFIX,googletagservices.com
+  - DOMAIN-SUFFIX,google-analytics.com
+  - DOMAIN-KEYWORD,adservice
+  - DOMAIN-KEYWORD,analytics
+  - DOMAIN-KEYWORD,analysis
+  # TikTok
+  - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN-SUFFIX,ibytedtos.com
+  - DOMAIN-SUFFIX,ipstatp.com
+  - DOMAIN-SUFFIX,muscdn.com
+  - DOMAIN-SUFFIX,musical.ly
+  - DOMAIN-SUFFIX,tiktok.com
+  - DOMAIN-SUFFIX,tik-tokapi.com
+  - DOMAIN-SUFFIX,tiktokcdn.com
+  - DOMAIN-SUFFIX,tiktokv.com
+  - DOMAIN-KEYWORD,-tiktokcdn-com
