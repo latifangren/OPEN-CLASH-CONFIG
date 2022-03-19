@@ -12,6 +12,15 @@ payload:
   - IP-CIDR,17.0.0.0/8
   - IP-CIDR,100.64.0.0/10
   - IP-CIDR6,fe80::/10
+  # > NEW WOLRD
+  - IP-CIDR,3.91.171.155/24
+  - DOMAIN-SUFFIX,*.amazonaws.com
+  - DOMAIN-SUFFIX,sts.us-east-1.amazonaws.com
+  - DOMAIN-SUFFIX,dynamodb.sa-east-1.amazonaws.com
+  - DOMAIN-SUFFIX,kinesis.us-east-1.amazonaws.com
+  - DOMAIN-SUFFIX,dynamodb.us-east-1.amazonaws.com
+  - DOMAIN-SUFFIX,dynamodb.eu-central-1.amazonaws.com
+  - DOMAIN-SUFFIX,dynamodb.ap-southeast-2.amazonaws.com
 # > GameMax
   - DOMAIN-SUFFIX,freefiremobile-a.akaimaihd.net
   - DOMAIN-SUFFIX,www.gamepubgmobile.com
