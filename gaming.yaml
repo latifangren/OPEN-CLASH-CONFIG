@@ -14,13 +14,33 @@ payload:
   - IP-CIDR6,fe80::/10
   # > NEW WOLRD
   - IP-CIDR,3.91.171.155/24
+  - DOMAIN-KEYWORD,newworld
+  - DOMAIN-KEYWORD,amazonaws
+  - DOMAIN-KEYWORD,amazongames
+  - DOMAIN,sts.us-east-1.amazonaws.com
+  - DOMAIN,dynamodb.sa-east-1.amazonaws.com
+  - DOMAIN,kinesis.us-east-1.amazonaws.com
+  - DOMAIN,dynamodb.us-east-1.amazonaws.com
+  - DOMAIN,dynamodb.eu-central-1.amazonaws.com
+  - DOMAIN,dynamodb.ap-southeast-2.amazonaws.com
+  - DOMAIN,amazonaws.com
+  - DOMAIN,ags-nw-cms.s3.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,*.amazonaws.com
+  - DOMAIN-SUFFIX,*.amazongames.com
+  - DOMAIN-SUFFIX,sts.us-east-1.amazonaws.com:443
+  - DOMAIN-SUFFIX,dynamodb.sa-east-1.amazonaws.com:80
+  - DOMAIN-SUFFIX,kinesis.us-east-1.amazonaws.com:443
+  - DOMAIN-SUFFIX,dynamodb.us-east-1.amazonaws.com:80
+  - DOMAIN-SUFFIX,dynamodb.eu-central-1.amazonaws.com:80
+  - DOMAIN-SUFFIX,dynamodb.ap-southeast-2.amazonaws.com:80
+  - DOMAIN-SUFFIX,client.catalogservice.amazongames.com
   - DOMAIN-SUFFIX,sts.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,dynamodb.sa-east-1.amazonaws.com
   - DOMAIN-SUFFIX,kinesis.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,dynamodb.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,dynamodb.eu-central-1.amazonaws.com
   - DOMAIN-SUFFIX,dynamodb.ap-southeast-2.amazonaws.com
+  - DOMAIN-SUFFIX,ags-nw-cms.s3.us-west-2.amazonaws.com
 # > GameMax
   - DOMAIN-SUFFIX,freefiremobile-a.akaimaihd.net
   - DOMAIN-SUFFIX,www.gamepubgmobile.com
